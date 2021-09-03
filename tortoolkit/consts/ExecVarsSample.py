@@ -36,7 +36,7 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DB_URI = "mongodb+srv://izaz1:izaz1@cluster0.oryjk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+        DB_URI = "postgres://gpagquimmkvgpn:a7f191996fa7090215f9a0054c2cfeadda313fbde529ad724fb8fbabd0e2673f@ec2-107-20-24-247.compute-1.amazonaws.com:5432/d9o1hcm1eek5j0"
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
